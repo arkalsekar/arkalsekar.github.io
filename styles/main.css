@@ -118,6 +118,7 @@ li{
 }
 
 .card--techstack{
+    cursor: pointer;
     border: 1px solid var(--mainBorderColor);
     border-radius: 5px;
     padding: 0.5em 1em;
