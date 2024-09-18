@@ -1,0 +1,25 @@
+Experience Alhumdulillah 
+
+National Level Hackathons and Competitions : 
+1. Algorithm 8.0 National Level Project Competition : Secured 2nd Place in National Level Hackathon by building a Hand Gesture Played Game built using python, and pretrained models by google mediapipe and game was built using pygame. 
+2. Technoscope 2K24 National Level Project Showcasing Competition : Showcased our project in the first year of engineering and got our project reviewed by industry experts and the experts of the field. 
+3. SIH : Smart India Hackathon and build a Robot Vehicle for Crack Detection and Monitoring on Railway Track and Inshallah Will win this competition.
+4. MegaCraze (IIT Bombay TechFest):  
+
+Hackathons : 
+1. Terrascope : Worked and Participated in Terrascope (MIT like program for First Year Engineering Students), which was on a PBL (Problem Based Learning). 
+2. Participated at Engineers Day Project Competition.
+3. Participate at Engineers Day Debate Competition on Big Tech in Control. 
+4. AICodex : Build a Direction of Arrival Detection System of GunShots for Defense and Battle Field Purposes and we hope to win in this competition as well Inshallah.
+
+Old Hackathons : 
+1. Mera Bharat Mahan : Build a Tribute Page for. 
+2. Dennis Ivy Hackathon : Build a prototype of video Chat application using Django and Agora.
+
+Startups : 
+1. Elite : Build and managed the elite club website. 
+2. Eldoran - Worked as a backend developer and developed a fully functional backend for blockchain based application. 
+3. QuizKTC : Worked on a quiz website specially for AIKTC Faculties and Students. 
+
+
+Personal Projects :
