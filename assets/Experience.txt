@@ -5,6 +5,7 @@ National Level Hackathons and Competitions :
 2. Technoscope 2K24 National Level Project Showcasing Competition : Showcased our project in the first year of engineering and got our project reviewed by industry experts and the experts of the field. 
 3. SIH : Smart India Hackathon and build a Robot Vehicle for Crack Detection and Monitoring on Railway Track and Inshallah Will win this competition.
 4. MegaCraze (IIT Bombay TechFest):  
+5. Aavishkar : A University Level Inter College Project and Research Competition.
 
 Hackathons : 
 1. Terrascope : Worked and Participated in Terrascope (MIT like program for First Year Engineering Students), which was on a PBL (Problem Based Learning). 
@@ -20,6 +21,11 @@ Startups :
 1. Elite : Build and managed the elite club website. 
 2. Eldoran - Worked as a backend developer and developed a fully functional backend for blockchain based application. 
 3. QuizKTC : Worked on a quiz website specially for AIKTC Faculties and Students. 
+4. 
 
-
-Personal Projects :
+Projects Delivered :
+1. Tata Power Plant Monitoring System using Raspberry PI, Opencv and MLX Thermal Camera.
+2. TrackTech : An AI Based Railway Track Crack Detection System.
+3. QuizKTC : An Exclusive Quiz Website created using only 
+4. Eldoran : A Complete backend service for a blockchain based web application 
+5. ProctoredAI : An AI based Proctoring that can provide proctoring based on a video feed provided. 
